@@ -1,0 +1,11 @@
+{
+    "name": "suitingwei/composer-library-1",
+    "type": "library",
+    "authors": [
+        {
+            "name": "suitingwei",
+            "email": "ufoddd001@gmail.com"
+        }
+    ],
+    "require": {}
+}
